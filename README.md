@@ -1,4 +1,4 @@
-# 🖤 CSS Portrait
+#CSS Portrait
 
 A portrait made with **HTML & CSS — for someone special.**
 
